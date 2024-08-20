@@ -1,0 +1,20 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "concurrently \"live-server\" \"json-server --watch db.json --port 3000\""
+  },
+  "keywords": [],
+  "author": "VILHALVA",
+  "license": "MIT",
+  "description": "PESQUISADOR COM JSON SERVER",
+  "dependencies": {
+    "codigo": "file:",
+    "json-server": "^1.0.0-beta.2",
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

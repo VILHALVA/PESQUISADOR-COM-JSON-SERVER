@@ -1,0 +1,24 @@
+{
+  "searches": [
+    {
+      "id": "723c",
+      "query": "nome"
+    },
+    {
+      "id": "9fb1",
+      "query": "moto"
+    },
+    {
+      "id": "3e46",
+      "query": "casa"
+    },
+    {
+      "id": "a0e1",
+      "query": "vilhalva"
+    },
+    {
+      "id": "d512",
+      "query": "lua"
+    }
+  ]
+}
